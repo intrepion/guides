@@ -58,7 +58,8 @@ GEM
     execjs (2.3.0)
     ffi (1.9.6)
     ffi (1.9.6-x86-mingw32)
-    haml (4.0.6)
+    haml (5.1.2)
+      temple (>= 0.8.0)
       tilt
     hashie (3.4.0)
     highline (1.6.21)
@@ -169,6 +170,7 @@ GEM
       sprockets (~> 2.0)
       tilt (~> 1.1)
     swiftype (1.2.0)
+    temple (0.8.2)
     thin (1.6.3)
       daemons (~> 1.0, >= 1.0.9)
       eventmachine (~> 1.0)
